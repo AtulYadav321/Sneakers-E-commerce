@@ -3,18 +3,10 @@
 ## Overview
 Sneaker E-Commerce is a modern, responsive web project built using HTML, CSS, and JavaScript. It showcases a stylish online sneaker store with product listings, detailed item views, and a sleek UI/UX design. The goal of this project is to simulate a real-world e-commerce experience with interactive features and a clean layout, ideal for sneaker enthusiasts and online shoppers.
 
-## Features
-- Input and display student details (Name, Roll Number, Contact Information, etc.)
-- Select group options like `SEAS` or `SLABS`
-- Choose between hosteller or day scholar
-- Generate a fee receipt based on selected choices
-- Print and reset student information
-- GUI developed using Java Swing
-
 ## Technologies Used
-- **HMTL** (Swing for GUI)
-- **CSS** for event handling
-- **Javascript** (Preferred IDE)
+- **HMTL**
+- **CSS** 
+- **Javascript**
 
 ## Screenshots
 
